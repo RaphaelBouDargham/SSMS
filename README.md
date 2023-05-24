@@ -1,2 +1,2 @@
 # SSMS
-Curso SQL Server
+sql
